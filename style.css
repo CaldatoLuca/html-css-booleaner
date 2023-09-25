@@ -1,3 +1,12 @@
+/* 
+*COMMON
+*/
+
+.violet {
+  color: purple;
+  font-size: 25px;
+}
+
 /*
  *HEADER
  */
@@ -7,7 +16,26 @@ header {
   background-color: rgba(78, 160, 255, 255);
   height: 175px;
 }
-img {
+#first-img {
   width: 300px;
   margin-top: 80px;
+}
+
+/*
+*MAIN
+ */
+.title {
+  font-size: 80px;
+  font-weight: 550;
+}
+#blu {
+  color: rgba(74, 185, 234, 255);
+}
+#second-img {
+  height: 400px;
+  width: 600px;
+}
+#third-img {
+  height: 400px;
+  width: 500px;
 }
