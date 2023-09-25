@@ -4,7 +4,7 @@
 
 .violet {
   color: purple;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .yellow {
@@ -30,7 +30,7 @@ header {
  */
 main {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 30px;
 }
 .title {
   font-size: 80px;
@@ -60,4 +60,25 @@ thead {
 }
 .light-blu {
   background-color: #b1e5f2;
+}
+
+/*
+*FOOTER
+ */
+footer {
+  color: white;
+  font-weight: 700;
+  font-size: 22px;
+}
+.background-img {
+  width: 300px;
+  height: 200px;
+}
+#fourth-img {
+  background-image: url(img/graph.jpg);
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+#fifth-img {
+  background-image: url(img/monitor.jpg);
 }
