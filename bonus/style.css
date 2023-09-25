@@ -1,0 +1,55 @@
+/* 
+HEADER
+ */
+header {
+  background-color: gray;
+}
+.title {
+  font-size: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.images {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* 
+MAIN
+ */
+main {
+  background-color: beige;
+  border-bottom: 2px solid black;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+  text-align: left;
+  border: 1px solid black;
+}
+thead {
+  background-color: gray;
+  color: white;
+}
+.white {
+  background-color: white;
+}
+
+/* 
+FOOTER
+ */
+a {
+  color: lightskyblue;
+}
+.background-img {
+  width: 300px;
+  height: 200px;
+}
+#fourth-img {
+  background-image: url(img/graph.jpg);
+  margin-bottom: 20px;
+}
+#fifth-img {
+  background-image: url(img/monitor.jpg);
+}
